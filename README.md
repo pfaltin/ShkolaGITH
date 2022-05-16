@@ -1,0 +1,2 @@
+# ShkolaGITH
+# git-GitHub skola
